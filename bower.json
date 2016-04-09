@@ -1,0 +1,21 @@
+{
+  "name": "jquery.sparkline-node-retina",
+  "description": "This jQuery plugin makes it easy to generate a number of different types of sparklines directly in the browser, using online a line of two of HTML and Javascript.",
+  "main": "dist/jquery.sparkline.js",
+  "authors": [
+    "cle1994"
+  ],
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "jquery",
+    "sparkline"
+  ],
+  "homepage": "https://github.com/ioutcomes/jquery.sparkline",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
